@@ -699,7 +699,7 @@ export function ExpenseForm({
           </CardContent>
         </Card>
 
-        {!runtimeFeatureFlags.enableExpenseDocuments && (
+        {runtimeFeatureFlags.enableExpenseDocuments && (
           <Card className="mt-4">
             <CardHeader>
               <CardTitle className="flex justify-between">
