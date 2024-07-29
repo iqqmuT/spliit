@@ -1,4 +1,12 @@
 {
+  "Homepage": {
+    "title": "Share <strong>Expenses</strong> with <strong>Friends & Family</strong>",
+    "description": "Welcome to your new <strong>Spliit</strong> instance !",
+    "button": {
+      "groups": "Go to groups",
+      "github": "GitHub"
+    }
+  },
   "Header": {
     "groups": "Groups"
   },
@@ -278,7 +286,8 @@
   },
   "Locale": {
     "en-US": "English (US)",
-    "fi": "suomi"
+    "fi": "suomi",
+    "fr-FR": "French"
   },
   "Share": {
     "title": "Share",
